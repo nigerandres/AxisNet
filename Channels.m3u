@@ -258,7 +258,7 @@ https://stmv.panel.grupolimalive.com/peruviantv/peruviantv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---5TV.png" group-title="CR Corrientes",251 | SPTV 32 [Cine/Argentina]
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---5TV.png" group-title="4 Cine",251 | SPTV 32 [Cine/Argentina]
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132
 
 
@@ -276,11 +276,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Moovimex.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="4 Cine",254 | Moovimex 2 [Cine/Mexico]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ATMTelevisionApurimac/picture?width=320&height=320" group-title="Local",255 | ATM Televisión [Cine/Peru]
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/ATMTelevisionApurimac/picture?width=320&height=320" group-title="4 Cine",255 | ATM Televisión [Cine/Peru]
 https://v4.tustreaming.cl/atmtv/live1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="",256 | Perú Channel [Cine/Peru]
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="4 Cine",256 | Perú Channel [Cine/Peru]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalAme47.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="4 Cine",257 | Canal Amé 47 [Cine/Rep. Dominicana]
@@ -288,14 +288,14 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 
-#EXTINF:-1 tvg-id="HM.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="",258 | HM [Cine/Rep. Dominicana]
+#EXTINF:-1 tvg-id="HM.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="4 Cine",258 | HM [Cine/Rep. Dominicana]
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telenord8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="",259 | Telenord 8 [Cine/Rep. Dominicana]
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="4 Cine",259 | Telenord 8 [Cine/Rep. Dominicana]
 
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vallevision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",260 | Vallevision [Cine/Rep. Dominicana]
+#EXTINF:-1 tvg-id="Vallevision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="4 Cine",260 | Vallevision [Cine/Rep. Dominicana]
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KUANLD2.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-88536.png" group-title="4 Cine",261 | TeleXitos [Cine/US]
