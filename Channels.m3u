@@ -269,43 +269,43 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="5 Noticias",311 | RTVE [Noticias/España]
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="5 Noticias",313 | France 24 [Noticias/Francia]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="5 Noticias",312 | France 24 [Noticias/Francia]
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="5 Noticias",314 | Euronews [Noticias/Francia]
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="5 Noticias",313 | Euronews [Noticias/Francia]
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 
-#EXTINF:-1 group-title="5 Noticias",315 | TVGE [Noticias/Guinea Ecuatorial]
+#EXTINF:-1 group-title="5 Noticias",314 | TVGE [Noticias/Guinea Ecuatorial]
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="5 Noticias",316 | HispanTV [Noticias/Iran]
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="5 Noticias",315 | HispanTV [Noticias/Iran]
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngCFclkx8_OjeImr3mO1BvDLtxIUkDcDL037PCAgw" group-title="5 Noticias",317 | Imagen Multicast [Noticias/Mexico]
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngCFclkx8_OjeImr3mO1BvDLtxIUkDcDL037PCAgw" group-title="5 Noticias",316 | Imagen Multicast [Noticias/Mexico]
 https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt2.m3u8
 
-#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AdP9s9a.png" group-title="5 Noticias",318 | MVM Noticias Oaxaca [Noticias/Mexico]
+#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AdP9s9a.png" group-title="5 Noticias",317 | MVM Noticias Oaxaca [Noticias/Mexico]
 https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="5 Noticias",319 | MX Canal Once Nacional [Noticias/Mexico]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="5 Noticias",318 | MX Canal Once Nacional [Noticias/Mexico]
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="5 Noticias",320 | Uno TV [Noticias/Mexico]
+#EXTINF:-1 tvg-id="UnoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="5 Noticias",319 | Uno TV [Noticias/Mexico]
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
-#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="5 Noticias",321 | Identidad TV [Noticias/Peru]
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="5 Noticias",320 | Identidad TV [Noticias/Peru]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="5 Noticias",322 | RPP [Noticias/Peru]
+#EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="5 Noticias",321 | RPP [Noticias/Peru]
 http://38.131.11.9:1080/play/a0d8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="5 Noticias",323 | TVPE Noticias [Noticias/Peru] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="5 Noticias",322 | TVPE Noticias [Noticias/Peru] 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 
-#EXTINF:-1 tvg-id="RNN.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="5 Noticias",324 | RNN [Noticias/Rep. Dominicana]
+#EXTINF:-1 tvg-id="RNN.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title="5 Noticias",323 | RNN [Noticias/Rep. Dominicana]
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
-#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="5 Noticias",325 | TeleSUR [Noticias/Venezuela]
+#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="5 Noticias",324 | TeleSUR [Noticias/Venezuela]
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 
@@ -498,166 +498,166 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" group-title="9 Musica",606 | Unserding [Musica/Alemania]
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" group-title="9 Musica",608 | Cordoba  TV [Musica/Argentina]
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV81.png" group-title="9 Musica",607 | Cordoba  TV [Musica/Argentina]
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="9 Musica",609 | Music Top [Musica/Argentina]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="9 Musica",608 | Music Top [Musica/Argentina]
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",610 | Radio Power [Musica/Argentina]
+#EXTINF:-1 group-title="9 Musica",609 | Radio Power [Musica/Argentina]
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
 
-#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="9 Musica",611 | Tierra Mía TV [Musica/Argentina]
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="9 Musica",610 | Tierra Mía TV [Musica/Argentina]
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KRONEHIT TV HD" tvg-link="http://epg.iptvhr.net/"tvg-name="KRONEHIT TV HD" tvg-logo="https://www.stream2watch.org/images/streams/583/600x400/14646084364783.png" group-title="9 Musica",612 | Kronehit TV [Musica/Austria]
+#EXTINF:-1 tvg-id="KRONEHIT TV HD" tvg-link="http://epg.iptvhr.net/"tvg-name="KRONEHIT TV HD" tvg-logo="https://www.stream2watch.org/images/streams/583/600x400/14646084364783.png" group-title="9 Musica",611 | Kronehit TV [Musica/Austria]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",613 | First Music 1 [Musica/Bielorusia]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",612 | First Music 1 [Musica/Bielorusia]
 http://rtmp.one.by:2300/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",614 | First Music 2 [Musica/Bielorusia]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",613 | First Music 2 [Musica/Bielorusia]
 http://rtmp.one.by:1300/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",615 | First Music 3 [Musica/Bielorusia]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="9 Musica",614 | First Music 3 [Musica/Bielorusia]
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-id="RadioTVBinacional.pe" tvg-country="BO;PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BinacionaltvGo/picture?width=320&height=320" group-title="9 Musica",616 | Radio TV Binacional [Musica/Bolivia]
+#EXTINF:-1 tvg-id="RadioTVBinacional.pe" tvg-country="BO;PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BinacionaltvGo/picture?width=320&height=320" group-title="9 Musica",615 | Radio TV Binacional [Musica/Bolivia]
 https://cp.sradiotv.com:1936/binacional/binacional/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="9 Musica",617 | TV Caxias [Musica/Brasil]
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="9 Musica",616 | TV Caxias [Musica/Brasil]
 http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?CANALANDRONALTAS
 
-#EXTINF:0, tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="9 Musica",618 | AE Radio Tv [Musica/Chile]
+#EXTINF:0, tvg-logo="http://66.media.tumblr.com/tumblr_llqajtuVTe1qi24nu.jpg" group-title="9 Musica",617 | AE Radio Tv [Musica/Chile]
 http://edge1.cl.grupoz.cl/aeradio/live/chunklist_w678069134.m3u8
 
-#EXTINF:-1 tvg-id="AlegriaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="9 Musica",619 | Alegria TV [Musica/Chile]
+#EXTINF:-1 tvg-id="AlegriaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png" group-title="9 Musica",618 | Alegria TV [Musica/Chile]
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="9 Musica",620 | Carolina TV [Musica/Chile]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="9 Musica",619 | Carolina TV [Musica/Chile]
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="9 Musica",621 | Maxima Radio y Videos [Musica/Chile]
+#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="9 Musica",620 | Maxima Radio y Videos [Musica/Chile]
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 
-#EXTINF:0 group-title="9 Musica",622 | Portal FoxMix [Musica/Chile]
+#EXTINF:0 group-title="9 Musica",621 | Portal FoxMix [Musica/Chile]
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RuidosFM.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IvSqpx0.jpg" group-title="9 Musica",623 | Ruidos FM [Musica/Chile]
+#EXTINF:-1 tvg-id="RuidosFM.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IvSqpx0.jpg" group-title="9 Musica",622 | Ruidos FM [Musica/Chile]
 https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" group-title="9 Musica",624 | Reload Play [Musica/Chipre]
+#EXTINF:-1 tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" group-title="9 Musica",623 | Reload Play [Musica/Chipre]
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="9 Musica",627 | Canal 88 stereo [Musica/Costa Rica]
+#EXTINF:-1 tvg-logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif" group-title="9 Musica",624 | Canal 88 stereo [Musica/Costa Rica]
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
-#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="9 Musica",628 | Colosal TV [Musica/Costa Rica]
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="9 Musica",625 | Colosal TV [Musica/Costa Rica]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="9 Musica",629 | Puruwa TV [Musica/Ecuador]
+#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="9 Musica",626 | Puruwa TV [Musica/Ecuador]
 https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/molaTV/picture?width=320&height=320" group-title="9 Musica",631 | Molahits TV [Musica/España]
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/molaTV/picture?width=320&height=320" group-title="9 Musica",627 | Molahits TV [Musica/España]
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="9 Musica",633 | Radio Contact Feel Good [Musica/Francia]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="9 Musica",628 | Radio Contact Feel Good [Musica/Francia]
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVnHduC.png" group-title="9 Musica",634 | GO TV [Musica/Holanda]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVnHduC.png" group-title="9 Musica",629 | GO TV [Musica/Holanda]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="9 Musica",636 | Jhanjar Music [Musica/India]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="9 Musica",630 | Jhanjar Music [Musica/India]
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="9 Musica",637 | Steelbird Music [Musica/India]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="9 Musica",631 | Steelbird Music [Musica/India]
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="9 Musica",638 | 51 Radio TV [Musica/Italia]
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="9 Musica",632 | 51 Radio TV [Musica/Italia]
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",639 | Deejay TV [Musica/Italia]
+#EXTINF:-1 group-title="9 Musica",633 | Deejay TV [Musica/Italia]
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 group-title="9 Musica",640 | M2O TV [Musica/Italia]
+#EXTINF:-1 group-title="9 Musica",634 | M2O TV [Musica/Italia]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0 group-title="9 Musica",641 | Radio Capital TV [Musica/Italia]
+#EXTINF:0 group-title="9 Musica",635 | Radio Capital TV [Musica/Italia]
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="9 Musica",642 | Radio Iglesias [Musica/Italia]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="9 Musica",636 | Radio Iglesias [Musica/Italia]
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",643 | Radio Italia Vision [Musica/Italia]
+#EXTINF:-1 group-title="9 Musica",637 | Radio Italia Vision [Musica/Italia]
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",644 | Sky Folk TV [Musica/Macedonia]
+#EXTINF:-1 group-title="9 Musica",638 | Sky Folk TV [Musica/Macedonia]
 http://skyfolk.mk/live.m3u8
 
-#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="9 Musica",645 | Conecta TV [Musica/Mexico]
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="9 Musica",639 | Conecta TV [Musica/Mexico]
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 
-#EXTINF:0 group-title="9 Musica",646 | Teleritmo [Musica/Mexico]
+#EXTINF:0 group-title="9 Musica",640 | Teleritmo [Musica/Mexico]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="9 Musica",648 | Best Cable Más Cumbia [Musica/Peru]
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="9 Musica",641 | Best Cable Más Cumbia [Musica/Peru]
 https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
 
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="9 Musica",649 | Best Cable Music [Musica/Peru]
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" group-title="9 Musica",642 | Best Cable Music [Musica/Peru]
 https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
 
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="9 Musica",650 | Best Cable TV [Musica/Peru]
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" group-title="9 Musica",643 | Best Cable TV [Musica/Peru]
 https://tv.siete.us/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBellezaAndina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/bellezandina/picture?width=320&height=320" group-title="9 Musica",651 | Cable Netword Belleza Andina TV [Musica/Peru]
+#EXTINF:-1 tvg-id="CNBellezaAndina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/bellezandina/picture?width=320&height=320" group-title="9 Musica",644 | Cable Netword Belleza Andina TV [Musica/Peru]
 https://tv.siete.us/bellezaandina/index.m3u8
 
-#EXTINF:-1 tvg-id="CNCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" group-title="9 Musica",652 | Cable Netword Cumbia TV [Musica/Peru]
+#EXTINF:-1 tvg-id="CNCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" group-title="9 Musica",645 | Cable Netword Cumbia TV [Musica/Peru]
 https://tv.siete.us/cumbiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="9 Musica",653 | DMJ Cuzco [Musica/Peru]
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="9 Musica",646 | DMJ Cuzco [Musica/Peru]
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="9 Musica",655 | Galáctica TV [Musica/Peru]
+#EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="9 Musica",647 | Galáctica TV [Musica/Peru]
 
 https://envivo.galacticatv.com:3913/stream/play.m3u8
-#EXTINF:-1 tvg-id="KoraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JJRODRIGUEZKORARTV/picture?width=320&height=320" group-title="9 Musica",656 | Kora TV [Musica/Peru]
+#EXTINF:-1 tvg-id="KoraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JJRODRIGUEZKORARTV/picture?width=320&height=320" group-title="9 Musica",648 | Kora TV [Musica/Peru]
 https://megastreamm.com:3362/live/koratvlive.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/megatvjaen/picture?width=320&height=320" group-title="9 Musica",657 | Mega TV Jaen [Musica/Peru]
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/megatvjaen/picture?width=320&height=320" group-title="9 Musica",649 | Mega TV Jaen [Musica/Peru]
 https://rtmp02.portalexpress.es/megatv/megatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="9 Musica",658 | Radio San Borja TV [Musica/Peru]
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="9 Musica",650 | Radio San Borja TV [Musica/Peru]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioXtrema.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="9 Musica",659 | Radio Xtrema [Musica/Peru]
+#EXTINF:-1 tvg-id="RadioXtrema.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="" group-title="9 Musica",651 | Radio Xtrema [Musica/Peru]
 https://rtmp02.portalexpress.es/xtrematv2/xtrematv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="9 Musica",662 | Top Latino TV [Musica/Peru]
+#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="9 Musica",652 | Top Latino TV [Musica/Peru]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="9 Musica",663 | TV Peruanísima [Musica/Peru]
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="9 Musica",653 | TV Peruanísima [Musica/Peru]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" group-title="9 Musica",664 | Visión TV Musica [Musica/Peru]
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" group-title="9 Musica",654 | Visión TV Musica [Musica/Peru]
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 
-#EXTINF:0 group-title="9 Musica",666 | RETRO Music [Musica/Rep. Checa]
+#EXTINF:0 group-title="9 Musica",655 | RETRO Music [Musica/Rep. Checa]
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",667 | Faro Vision [Musica/Rep. Dominicana]
+#EXTINF:-1 group-title="9 Musica",656 | Faro Vision [Musica/Rep. Dominicana]
 http://184.173.181.2:1935/8060/8060/playlist.m3u8
 
-#EXTINF:-1 group-title="9 Musica",668 | ONDA tv [Musica/Rep. Dominicana]
+#EXTINF:-1 group-title="9 Musica",657 | ONDA tv [Musica/Rep. Dominicana]
 http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="9 Musica",670 | RUTV [Musica/Rusia]
+#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="9 Musica",658 | RUTV [Musica/Rusia]
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="9 Musica",671 | TVM 3 [Musica/Suiza]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/1200px-Logo_TVM3_2015.png" group-title="9 Musica",659 | TVM 3 [Musica/Suiza]
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="9 Musica",672 | La Mega Mundial [Musica/US]
+#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="9 Musica",660 | La Mega Mundial [Musica/US]
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 
