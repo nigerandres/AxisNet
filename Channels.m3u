@@ -219,7 +219,6 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAme47.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Cine",257 | Canal Amé 47 [Cine/Rep. Dominicana]
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
-
 #EXTINF:-1 tvg-id="HM.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="Cine",258 | HM [Cine/Rep. Dominicana]
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 
@@ -333,13 +332,16 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKX1kAN.jpg" group-title="Deportes",407 | Arryadia [Deportes/Marruecos]
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Deportes",408 | Hipódromo de las Américas [Deportes/Mexico]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Claros " group-title="Deportes",408 | Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Deportes",409 | Hipódromo de las Américas [Deportes/Mexico]
 http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="Deportes",409 | Monterrico TV [Deportes/Peru]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="Deportes",410 | Monterrico TV [Deportes/Peru]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes",410 | Ovacion [Deportes/Peru]
+#EXTINF:-1 group-title="Deportes",411 | Ovacion [Deportes/Peru]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 
