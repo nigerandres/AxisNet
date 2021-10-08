@@ -332,7 +332,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKX1kAN.jpg" group-title="Deportes",407 | Arryadia [Deportes/Marruecos]
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/Claros " group-title="Deportes",408 | Claro Sports
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Claros " group-title="Deportes",408 | Claro Sports [Deportes/Mexico]
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Deportes",409 | Hipódromo de las Américas [Deportes/Mexico]
